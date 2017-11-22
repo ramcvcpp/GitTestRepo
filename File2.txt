@@ -1,1 +1,2 @@
 File2 modified
+File 2 added symlink
