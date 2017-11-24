@@ -2,3 +2,4 @@ File2 modified
 File 2 added symlink
 Hi123456
 123456
+abcd
